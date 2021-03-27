@@ -1,1 +1,1 @@
-properties file in branch1
+properties file in branch1 is changed
